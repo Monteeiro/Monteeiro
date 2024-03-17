@@ -1,4 +1,10 @@
-### Hi there 👋
+  ### Olá caro visitante, bem vindo!
+
+⚙ Sou estudante de Engenharia de Controle e Automação na Universidade Federal de Itajubá. 
+
+🤖 Atualmente estou trabalhando em desenvolvimento pessoal e crescimento profissional, construindo uma boa base para atuar no mercado de tecnologia. Tenho muito interesse em aprender mais sobre robótica, recreativa e industrial, e também sobre inteligência artificial, visto que o futuro dessa área é extremamente vasto e promissor.
+
+EN / PT
 
 <!--
 **Monteeiro/Monteeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
