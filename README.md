@@ -2,7 +2,7 @@
 
 ⚙ Sou estudante de Engenharia de Controle e Automação na Universidade Federal de Itajubá. 
 
-🤖 Atualmente estou trabalhando em desenvolvimento pessoal e crescimento profissional, construindo uma boa base para atuar no mercado de tecnologia. Tenho muito interesse em aprender mais sobre robótica, recreativa e industrial, e também sobre inteligência artificial, visto que o futuro dessa área é extremamente vasto e promissor.
+🤖 Atualmente estou trabalhando em desenvolvimento pessoal e crescimento profissional, construindo uma boa base para atuar no mercado de tecnologia. Tenho muito interesse nas áreas de pesquisa de robótica, inteligência artificial, sistemas autônomos e cibersegurança.
 
 EN / PT
 
