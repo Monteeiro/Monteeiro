@@ -1,10 +1,18 @@
-  ### Olá caro visitante, bem vindo!
+# Gabriel Monteiro Rosa
+⚙️ Estudante de Engenharia de Controle e Automação na Universidade Federal de Itajubá (UNIFEI), com experiência prática em automação e controle, utilizando CODESYS, Elipse E3, FUXA e GNU Octave, além de programação em Python, C/C++ e linguagens para CLPs.
 
-⚙ Sou estudante de Engenharia de Controle e Automação na Universidade Federal de Itajubá. 
+🔧 Atualmente envolvido em projetos e estudos acadêmicos na área de sistemas industriais.
 
-🤖 Atualmente estou trabalhando em desenvolvimento pessoal e crescimento profissional, construindo uma boa base para atuar no mercado de tecnologia. Tenho muito interesse nas áreas de pesquisa de robótica, inteligência artificial, sistemas autônomos e cibersegurança.
+## 📖 Interesses
+- Automação, SCADA e Sistemas de Controle;
+- Robótica Industrial;
+- Visão Computacional;
+- Redes Industriais e Cibersegurança.
 
-EN / PT
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/gabriel-monteiro-rosa)
+
+🌎 Idiomas: PT-BR | EN
 
 <!--
 **Monteeiro/Monteeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
